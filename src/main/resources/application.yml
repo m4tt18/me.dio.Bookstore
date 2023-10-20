@@ -1,0 +1,4 @@
+app:
+  name: Bookstore's book search
+server:
+  port: 8090
